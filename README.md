@@ -1,2 +1,2 @@
-# Hello there
-This is just sample text, for make it longer here more text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+# Hello there :smile:
+I am a self-taught developer who likes to play with Linux and programming. For now, I'm in progress learning to be a full-stack javascript developer while being a freelancer for the front-end.
